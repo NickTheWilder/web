@@ -99,12 +99,12 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: #363242;
 		/*background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);*/
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #949494 15%, #363242 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #949494 15%, 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #949494 15%, #363242 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #949494 15%, #363242 85%);
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #949494 15%, #363242 85%);
@@ -124,7 +124,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #363242;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -2171,7 +2171,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #935d8c;
+			background: #363242;
 		}
 
 	input[type="checkbox"] + label,
@@ -2189,7 +2189,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #935d8c;
+		color: #363242;
 	}
 
 	input[type="checkbox"]:focus + label:before,
